@@ -21,6 +21,24 @@
 
 > 現在這個對話的資料，我想都放在這個repo 中
 
+### 使用者
+
+> [@Composio]
+>
+> 這是我想要做的vtube 相關資料；  
+> 我想知道，我現在有素材圖  
+> 接下來要如何進行vtube?
+
+### Codex
+
+建議以 2D Live2D 路線進行：先確認素材圖是否為分層 PSD；若是扁平 PNG／JPG，先拆件與補畫；接著使用 Live2D Cubism 完成模型綁定，匯入 VTube Studio 做臉部追蹤，最後由 OBS 錄影或直播。
+
+完整流程、素材分層清單與下一步已整理至：
+
+- [從素材圖到 VTuber：Alice 的製作路線](../guides/vtube-from-artwork-roadmap.md)
+
+目前最需要的下一份資料是原始素材圖。收到圖片後，可進一步製作素材可用性檢查、拆件清單、補畫區域、PSD 命名表與第一版驗收標準。
+
 ## 已確認的工作方式
 
 - vtube-Alice 相關資料集中保存在此 repository。
